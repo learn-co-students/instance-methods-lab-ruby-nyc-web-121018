@@ -11,6 +11,3 @@ end
 
 end
 
-
-Dog.bark
-Dog.sit
